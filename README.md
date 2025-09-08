@@ -9,11 +9,7 @@
 
 ## ✨ **Características Destacadas**
 
-### 🎨 **Banner Especial de NEZUKO**
-- **Detección automática** de Kali Linux
-- **Banner personalizado** con "NEZUKO" en letras grandes
-- **Interfaz adaptativa** según la plataforma
-- **Colores dinámicos** para mejor experiencia visual
+
 
 ### 🔧 **Mejoras Técnicas**
 - **Manejo robusto de errores** con try-catch y logging
